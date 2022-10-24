@@ -1,0 +1,82 @@
+[
+    {
+      "id": "08",
+      "title": "Create a Resume and Cover Letter with Google Docs",
+      "rating":"4.6",
+      "duration": "2 hours",
+      "description": "In this project, you will create your very own resume and cover letter from start to finish. You will utilize the Google Docs application in a Google Chrome web browser to find readily available templates. We will first review the basic parts of a resume and fill in your own personal information related to contact information, personal summary, work experience, education, and any additional information. We will also review what it takes to create a great cover letter and fill it in with your own words. As we create these documents you will get to learn many ways to customize text format, styles, bulleted lists, and even add a signature to your cover letter. Lastly, we will cover how to print the document and save it to a file such as a PDF so these documents can be shared to your next potential new employer.",
+      "image":"https://preview.colorlib.com/theme/educrown/assest/img/course/xblog-3.jpg.pagespeed.ic.iw7y8wUP_P.webp",
+      "price":"3000",
+      "level": "Beginner"
+    },
+    {
+      "id": "07",
+      "title":"Preparation for Job Interviews",
+      "rating": "4.5",
+      "duration": "1 hour",
+      "description": "Interview Preparation for Job Interviews. In this guided project, I'll teach you how to prepare for different types of job interviews, and how to answer some of the most common interview questions recruiters and hiring managers will most likely ask. I'll also teach you best practices to follow before and after the job interview, as well as to prepare strategic interview questions to ask the hiring manager after the end of the interview. Asking the hiring manager good strategic questions will help you decide if the position you're applying for is a good fit for you and for the hiring manager.Learning Objective 1: Prepare for 5 Different Types of Job Interviews. Learning Objective 2: Prepare for the Most Common Interview Questions. Learning Objective 3: Prepare for Best Practices BEFORE the Job Interview",
+      "image": "https://preview.colorlib.com/theme/learnit/img/latest-blog/xl-blog-1.jpg.pagespeed.ic.yQ5uQkwrId.webp",
+      "price":"1500",
+      "level": "Beginner"
+    },
+    {
+      "id": "06",
+      "title":"Use Canva to Create Desktop and Mobile-friendly Web Pages.",
+      "rating": "4.7",
+      "duration": "2 hours",
+      "description": "By the end of this project, you will be able to create a ready to publish Desktop friendly and  Mobile-friendly webpages  with the help of the Canva graphic design tool. These simple webpages can be independently published with help of Canva URL or URL shorteners. This course will include introduction to Canva, how to design Desktop and Mobile friendly webpages and linking these pages to Socail media channels and prepare these simple webpages for publishing or can be shared with the help of Canva URLs or URL shorteners.",
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5b/fd8764c30743bca34499cc80f23dfc/Project-1-Logo-1000x1000.png?auto=format%2Ccompress&dpr=1&auto=format%2Ccompress&dpr=1&w=&h=",
+      "price":"3000",
+      "level": "Beginner"
+    },
+    {
+      "id": "05",
+      "title":"Modern JavaScript: ES6 Basics",
+      "rating": "4.4",
+      "duration": "2 hour",
+      "description": "In this project, you'll learn the most fundamental ES6 features and practice them with live hands-on examples. You'll start writing modern JavaScript and really understand why we need ES6. Mastering modern JavaScript starts with understanding the reasoning behind the main ES6 features - arrow functions, variables, template literals. Doing so will help you grasp the concepts behind Node, React and Angular.",
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/28/415a0930c541d2ab1044ed15980e48/wtwD646nQf8w2gV0QDDxpf5zDHOL43j6xWT-.png?auto=format%2Ccompress&dpr=1&auto=format%2Ccompress&dpr=1&w=&h=",
+      "price":"1500",
+      "level": "Beginner"
+    },
+    {
+      "id": "04",
+      "title":"Getting Started with Python",
+      "rating": "4.8",
+      "duration": "19 hours",
+      "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
+      "image": "https://preview.colorlib.com/theme/learnit/img/latest-blog/xl-blog-3.jpg.pagespeed.ic.bcAIz6tPBz.webp",
+      "price":"9000",
+      "level": "Beginner"
+    },
+    {
+      "id": "03",
+      "title":"HTML, CSS, and Javascript for Web Developers",
+      "rating": "4.7",
+      "duration": "40 hours",
+      "description": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today's user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user's screen. You'll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+      "image": "https://www.free-css.com/assets/files/free-css-templates/preview/page279/grad-school/assets/images/courses-02.jpg",
+      "price":"12000",
+      "level": "Intermediate"
+    },
+    {
+      "id": "02",
+      "title":"Blockchain Specialization",
+      "rating": "4.6",
+      "duration": "4 months",
+      "description": "This specialization introduces blockchain, a revolutionary technology that enables peer-to-peer transfer of digital assets without any intermediaries, and is predicted to be just as impactful as the Internet. More specifically, it prepares learners to program on the Ethereum blockchain. The four courses provide learners with (i) an understanding and working knowledge of foundational blockchain concepts, (ii) a skill set for designing and implementing smart contracts, (iii) methods for developing decentralized applications on the blockchain, and (iv) information about the ongoing specific industry-wide blockchain frameworks. The specialization covers a range of essential topics, from the cryptographic underpinnings of blockchain technology to enabling decentralized applications on a private Ethereum blockchain platform. It is ideal for programmers and designers involved in developing and implementing blockchain applications, and anyone who is interested in understanding its potential. ",
+      "image": "https://preview.colorlib.com/theme/academics/images/xcourse_6.jpg.pagespeed.ic.P-biLxT2VW.webp",
+      "price":"20000",
+      "level": "Intermediate"
+    },
+    {
+      "id": "01",
+      "title":"Server-side Development with NodeJS, Express and MongoDB",
+      "rating": "4.7",
+      "duration": "48 hours",
+      "description": "This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services. At the end of this course, you will be able to: - Demonstrate an understanding of server-side concepts, CRUD and REST. - Build and configure a backend server using NodeJS framework. - Build a RESTful API for the front-end to access backend services.",
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c3/2ab0304cf611e7a143498f0a05f3b8/Logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+      "price":"9000",
+      "level": "Intermediate"
+    }
+  ]
