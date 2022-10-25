@@ -6,6 +6,7 @@ const cors = require('cors');
 app.use(cors());
 
 const courses = require('./data/courses.json');
+const blogs = require('./data/blogs.json');
 
 app.get('/',(req,res)=>{
     res.send('Course API Running');
@@ -21,6 +22,9 @@ app.get('/courses/:id', (req, res) => {
     res.send(singleCourse);
 })
 
+app.get('/blogs', (req, res) => {
+    res.send(blogs);
+})
 app.listen(port, () => {
     console.log("T-Course server running on port", port);
 });
